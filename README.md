@@ -1,9 +1,12 @@
 # Granulometry
 
 
-author: Clemente Gotelli			
+author: Clemente Gotelli
+
 Last modified by Clemente Gotelli	
+
 Last modified on October 15th, 2021	
+
 Email: clemente.gotelli@epfl.ch 	
 
 
